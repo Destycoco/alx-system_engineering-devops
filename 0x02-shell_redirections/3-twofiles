@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type f /etc/passwd /etc/hosts -print
